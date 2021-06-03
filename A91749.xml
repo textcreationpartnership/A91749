@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable exhortation of sundry ministers in London to the people of their respective congregations.</title>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91749</idno><idno type="EEBO-CITATION">99863379</idno>
+  <idno type="VID">168765</idno>
+  <idno type="EEBO-PROQUEST">2240894917</idno>
+  
+            <idno type="STC">Wing R1276</idno>
+            <idno type="STC">Thomason E1013_17</idno>
+            <idno type="STC">ESTC R203418</idno>
+            <idno type="PROQUEST">99863379</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863379e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168765)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable exhortation of sundry ministers in London to the people of their respective congregations.</title>
+                  <author>Reynolds, Edward, 1599-1676.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E.M. for Samuel Gellibrand at the golden Ball in Pauls Church-yard; and Robert Gibbs at the golden Ball in Chancery lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Edward Reynolds [and 61 others].</note>
+                  <note>Parts of quires A and B are in two settings; A4r line 16 ends (1) "of Religion" or (2) "of Religion a-"; B2r line 3 ends (1) "darkness and dark-" or (2) "Darkness and Dark-".</note>
+                  <note>Annotation on Thomason copy: "Jan. 23. 1659"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religious history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168765:1"/>
+            <p>A SEASONABLE Exhortation OF SUNDRY MINISTERS IN LONDON TO THE PEOPLE Of their respective Congregations.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. M.</hi> for <hi>Samuel Gellibrand</hi> at the golden Ball in <hi>Pauls</hi> Church-yard; and <hi>Robert Gibbs</hi> the golden Ball in <hi>Chancery lane.</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168765:2"/>
+            <pb facs="tcp:168765:2"/>
+            <head>TO THE Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Reader is desired to take notice, that as the <hi>late sad Con<g ref="char:EOLhyphen"/>fusions</hi> did awaken us to set up<g ref="char:EOLhyphen"/>on <hi>this Exhortation;</hi> so it should have been published many weeks since in the midst of them, had not <hi>divers Interrup<g ref="char:EOLhyphen"/>tions</hi> occasioned the delay. If the Lord be at this time (in answer to the pray<g ref="char:EOLhyphen"/>ers of his servants) opening a <hi>doore of hope,</hi> (which we earnestly desire) as we shall bless his Name for so <hi>seasonable a
+<pb facs="tcp:168765:3"/> mercy;</hi> so we hope it will not be at all <hi>improper,</hi> or <hi>unacceptable</hi> to any <hi>serious</hi> and <hi>sober Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>istians,</hi> as yet to awaken the People of this City to lay to heart the dangers which threaten them, and to set about the duties which may keep the Lord still amongst them.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168765:3"/>
+            <head>A Seasonable <hi>EXHORTATION</hi> of Sundry <hi>MINISTERS</hi> in <hi>LON<g ref="char:EOLhyphen"/>DON,</hi> to the People of their Respective <hi>CONGREGATIONS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough we are not ignorant of the <hi>Prejudices</hi> and <hi>Prepossessions</hi> where<g ref="char:EOLhyphen"/>with the carnal World are leavened against our <hi>Calling, Office,</hi> and <hi>Do<g ref="char:EOLhyphen"/>ctrine;</hi> and what <hi>clamours</hi> and <hi>fiery conten<g ref="char:EOLhyphen"/>tions</hi> abide for them everywhere that plead <hi>Christs cause</hi> in the Gates; and that <hi>publick Testimonies</hi> against <hi>Errors</hi> are usually miscon<g ref="char:EOLhyphen"/>strued, as the fruits of an <hi>inordinate</hi> and <hi>mis<g ref="char:EOLhyphen"/>guided zeal,</hi> and thought to proceed from <hi>an itch of medling,</hi> and the <hi>impulsion of private aims,</hi> rather than any <hi>good conscie<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> yet be<g ref="char:EOLhyphen"/>ing plac'd by the Lord in this <hi>Publick Watch-Tower,</hi> and having had experience of <hi>notable success</hi> (thorow his blessing) on <hi>former en<g ref="char:EOLhyphen"/>deavours</hi>
+               <pb n="2" facs="tcp:168765:4"/> in this kind, notwithstanding the <hi>re<g ref="char:EOLhyphen"/>proaches</hi> and <hi>censures</hi> of evil minded men, we could not at least in <hi>such a time as this is,</hi> when the interesses of Christ Jesus our Lord, and his Churches upon earth are so nearly con<g ref="char:EOLhyphen"/>cerned, (that we say not exposed to apparent hazard and ruine) but <hi>blow our Trumpet,</hi>
+               <note place="margin">Isa. 58 1.</note> and in all plainness of heart give warning to those committed to our charge of the approaching dangers.</p>
+            <p>Which course (we hope) can be justly of<g ref="char:EOLhyphen"/>fensive to none that fear God in the Land, and have the <hi>concernments of Religion</hi> upon their hearts, especially when they shall consider how <hi>strictly,</hi> and with what <hi>severity of Commination</hi> all are enjoined to <hi>contend for</hi>
+               <note n="*" place="margin">Jude 3.</note>
+               <hi>the faith once delivered to the Saints,</hi> and peculiarly Mini<g ref="char:EOLhyphen"/>sters, who are<note n="*" place="margin">Phil. 1.17.</note>
+               <hi>set for the defence of the Go<g ref="char:EOLhyphen"/>spel,</hi> and invested with the title of<note n="*" place="margin">Ezek. 33. from ver. 1. to ver. 10.</note>
+               <hi>Watch<g ref="char:EOLhyphen"/>men,</hi> who are to give notice to the City of the Enemies approach, lest <hi>the blood of the slain</hi> be required at their hands; and of<note n="*" place="margin">Acts 20.29, 33, 31. &amp; Joh. 10.12.</note>
+               <hi>Pastors</hi> or <hi>Sheph<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> whom it concerneth in tender<g ref="char:EOLhyphen"/>ness to the Flock, to <hi>warn every one with tears,</hi> when they see <hi>grievous Wolves</hi> ready to enter
+<pb n="3" facs="tcp:168765:4"/> in among them; however, if we must <hi>displease,</hi> we had rather <hi>displease men</hi> by a <hi>faithful dis<g ref="char:EOLhyphen"/>charge of our duty,</hi> than our God by an <hi>impious</hi> and <hi>injurious silence</hi> in his cause, hoping that he will teach us to approve our selves<note n="*" place="margin">2 Cor. 6.8.</note> as his <hi>Ministers by honour and dishonour, by evil re<g ref="char:EOLhyphen"/>port and good report, as deceivers, and yet true.</hi>
+            </p>
+            <p>We therefore <hi>Ministers of the Gospel in the City of London,</hi> do with all affectionate ear<g ref="char:EOLhyphen"/>nestness Exhort the People of this City to <hi>awake, as out of sleep,</hi> and to lay to heart the <hi>great dangers</hi> that threaten us, which we may represent under a three-fold Consideration.</p>
+            <p>First, <hi>The fears of the return of Popery.</hi>
+            </p>
+            <p>Secondly, <hi>The distracted estate of Religion among us.</hi>
+            </p>
+            <p>Thirdly, <hi>Other Symptomes of Gods wrath hanging over our heads.</hi>
+            </p>
+            <p>As to the first, We had verily thought that <hi>Popery</hi> had rendered it self <hi>justly odious</hi> by its <hi>own Abominations</hi> in <hi>Doctrine</hi> and <hi>Worship,</hi> as also by its <hi>bloody Tyranny</hi> lately revived in the <hi>slaughters of Ireland;</hi> and since that of <hi>Pied<g ref="char:EOLhyphen"/>mont</hi> and <hi>Poland;</hi> and that in <hi>these days of light</hi>
+               <pb n="4" facs="tcp:168765:5"/> and <hi>knowledge,</hi> to imagine the <hi>possibility</hi> of a return of a second Deluge of Antichristianisme over the <hi>Protestant Churches,</hi> (which yet hath been the opinion of divers, Eminent for learn<g ref="char:EOLhyphen"/>ing and godliness amongst us) was a <hi>groundless supposition,</hi> and to fear where no fear was; but alas, that to which for some years past we could hardly allow in our thoughts the room of <hi>re<g ref="char:EOLhyphen"/>mote possibility,</hi> is now grown into a <hi>near</hi> and an <hi>apparent probability,</hi> or a mischief at hand ready to break in upon us, if God in mercy pre<g ref="char:EOLhyphen"/>vent not.</p>
+            <p>That the <hi>Popish Faction</hi> hath often attempt<g ref="char:EOLhyphen"/>ed a re-entry into these Nations, and what <hi>vi<g ref="char:EOLhyphen"/>gorous endeavours</hi> have been used to carry on the Design, is not unknown to those that have been acquainted with the Times, and course of Affairs, since the Reformation in <hi>Queen Eliza<g ref="char:EOLhyphen"/>beths days,</hi> and may easily be made evident to any that sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll consider the many <hi>traiterous At<g ref="char:EOLhyphen"/>tempts</hi> against that Queen, the <hi>Invasion in</hi> 88. the <hi>Powder-Treason,</hi> the endeavour of putting a <hi>Popish sense</hi> on the <hi>Articles of the Church of England,</hi> openly avowed by <hi>Franciscus de San<g ref="char:EOLhyphen"/>cto Clara,</hi> and secretly abetted by others, but
+<pb n="5" facs="tcp:168765:5"/> never had the Adversary <hi>greater hopes</hi> of effect<g ref="char:EOLhyphen"/>ing it than now; which that it may not seem a <hi>groundless suggestion,</hi> we desire you to con<g ref="char:EOLhyphen"/>sider</p>
+            <p n="1">1. The <hi>Ʋnion of Forraign, Popish Powers,</hi> which how soon the <hi>Court of Rome</hi> (being ever vigilant to improve such occasions for the Propagation of its own greatness) may make use of for the extirpation of the Protestant Religion, we need not divine; the <hi>frequent</hi> and <hi>confident expressions</hi> of our Adversaries, the Papists at <hi>home</hi> and <hi>abroad</hi> intimating such an intention, with hopes of success therein, especially here in <hi>England;</hi> and the <hi>breaches among the Protestants,</hi> turning their Arms upon one another, giving but too fair an occasion to them to carry on their purpose; <hi>A Kingdome divided against it self, cannot stand.</hi>
+            </p>
+            <p n="2">2. The <hi>Ʋast Numbers of Popish Emissaries, Priests</hi> and <hi>Jesuits,</hi> that swarme amongst us; English Colledges (as we are certified by cre<g ref="char:EOLhyphen"/>dible reports) being much emptied, by reason of the multitudes that are sent hither. Now if you consider their <hi>Nearness to Great Ones,</hi> their <hi>Indefatigable Industry,</hi> compassing Sea and Land
+<pb n="6" facs="tcp:168765:6"/> to make Proyselites to their Superstition; <hi>the vast treasures to</hi> support them; their <hi>strong in<g ref="char:EOLhyphen"/>fluence</hi> and <hi>efficacy</hi> upon all sorts of persons; their <hi>acting under the disguise of Sectaries,</hi> and subtilly insinuating <hi>many of their Doctrines,</hi> tending to the <hi>disparagement of the Authority of Scriptures,</hi> and teaching <hi>Justification by in<g ref="char:EOLhyphen"/>herent righteousness, Perfection,</hi> or absolute ful<g ref="char:EOLhyphen"/>filling the Law; <hi>unlawfulness to joyne in our Ordinances, nullity of our Ministry,</hi> &amp;c. you will see cause with us to fear that these <hi>Locusts of the bottomless pit</hi> are now let loose, by a righ<g ref="char:EOLhyphen"/>teous Judgement (as from God) to deceive these Nations.</p>
+            <p n="3">3 The <hi>Printing</hi> and <hi>Ʋending</hi> so many thousands of Popish books every year in the <hi>English Tongue,</hi> which considering the <hi>Apostacy</hi> of some, and the <hi>Indifferency</hi> of many others of Quality, taking offence at the <hi>unhappy di<g ref="char:EOLhyphen"/>visions</hi> and <hi>distractions</hi> which have been, and do yet continue amongst us, cannot speak less to us than too great an inclination to a revolt to Popery.</p>
+            <p n="4">4. The <hi>whole body almost of Popery pub<g ref="char:EOLhyphen"/>lished by Sectaries,</hi> especially <hi>Quakers,</hi> in whom
+<pb n="7" facs="tcp:168765:6"/> (though seemingly the <hi>opposite extream</hi>) we cannot but observe a <hi>ready coincidency</hi> with Papists in their opinions, as <hi>darkness</hi> and <hi>dark<g ref="char:EOLhyphen"/>ness</hi> will sooner agree than <hi>light</hi> and <hi>darkness;</hi> yea, <hi>all Errors</hi> issuing themselves into <hi>Anti<g ref="char:EOLhyphen"/>christianisme,</hi> the great Apostacy from the Christian Faith, as into one <hi>common sinck;</hi> here<g ref="char:EOLhyphen"/>by the spirits of men are more prepared for the reception of Popish infusions.</p>
+            <p n="5">5. <hi>Jesuitical Designs</hi> and <hi>Models</hi> of redu<g ref="char:EOLhyphen"/>cing <hi>England</hi> to <hi>Romes obedience,</hi> exactly fol<g ref="char:EOLhyphen"/>lowed, and promoted by many <hi>deluded Prote<g ref="char:EOLhyphen"/>stants,</hi> it being most apparent from the <hi>Politi<g ref="char:EOLhyphen"/>cal Treatises</hi> and <hi>Continual Practices</hi> of that Party, that nothing can more conduce to their ends, than the pulling down the <hi>Protestant Ʋniversities,</hi> (by which they have received their deadly wounds) and the impoverishing, disgracing, and overthrowing <hi>a Godly, Learned Ministry,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sowing jealousies and dissentions between them and their people.</p>
+            <p n="6">6. The <hi>toleration of Popery</hi> publickly plead<g ref="char:EOLhyphen"/>ed for in Print, and by some of Power and In<g ref="char:EOLhyphen"/>terest endeavoured, contrary to so many <hi>re<g ref="char:EOLhyphen"/>newed Declarations of State,</hi> together with a
+<pb n="8" facs="tcp:168765:7"/>
+               <hi>varnish</hi> put upon the <hi>foulest Errors</hi> of that way by others of a <hi>prostituted conscience</hi> in their <hi>scandalous Pamphlets,</hi> which by the liberty of these times are permitted to come forth to the seducing of the people.</p>
+            <p>Secondly, The <hi>present distracted estate of Re<g ref="char:EOLhyphen"/>ligion</hi> is sufficiently evident from</p>
+            <p n="1">1. <hi>Our divisions</hi> both in <hi>civil</hi> and <hi>spiritual</hi> things, heightened by the <hi>various changes</hi> that have happened amongst us, which have begot<g ref="char:EOLhyphen"/>ten <hi>jealousies</hi> and <hi>animosities</hi> against one ano<g ref="char:EOLhyphen"/>ther, so that the <hi>wonted love</hi> and <hi>communion in holy duties</hi> is interrupted, <hi>strangeness</hi> and <hi>distan<g ref="char:EOLhyphen"/>ces</hi> fomented, <hi>censures</hi> and <hi>hard opinions</hi> of each other entertained; and whil'st each Party are Promoting the <hi>Private Interests</hi> of their own Faction, the <hi>Publick Concernments of the Gospel</hi> suffer an irreparable loss and de<g ref="char:EOLhyphen"/>cay.</p>
+            <p n="2">2. The <hi>many horrid</hi> and <hi>hideous Errors</hi> which for some years past have abounded a<g ref="char:EOLhyphen"/>mongst us, against the <hi>Authority of Scriptures,</hi> the <hi>Deity of Christ,</hi> and <hi>the Holy Ghost, Trinity of Persons, the Immortality of the Soul,</hi> Doctrines of <hi>Repentance, Humiliation, Sanctification, Resur<g ref="char:EOLhyphen"/>rection
+<pb n="9" facs="tcp:168765:7"/> from the dead,</hi> the eternal recompences of <hi>heaven</hi> and <hi>hell;</hi> the decrying and abasing of <hi>Ordinances</hi> as so many <hi>empty forms,</hi> and the <hi>Ministry</hi> as an <hi>useless thing;</hi> yea, divers Sects of <hi>Libertines</hi> encreasing every day in <hi>numbers, power</hi> and <hi>malice;</hi> and under the various forms and names of <hi>Quakers, Seekers, Ranters, Fami<g ref="char:EOLhyphen"/>lists, Behemists, &amp;c.</hi> oppugning the received doctrine and unquestionable interests of <hi>Christ Jesus</hi> among us.</p>
+            <p n="3">3. <hi>The odious scandals</hi> of those that profess themselves the people of God, as their <hi>self-seek<g ref="char:EOLhyphen"/>ing</hi> under the pretence of <hi>publick good,</hi> their unparallel'd breaches of all <hi>civil</hi> and <hi>sacred Oaths</hi> and <hi>Covenants,</hi> both to God and Man, which however palliated by the <hi>cunning crafti<g ref="char:EOLhyphen"/>ness of men,</hi> (which makes the sin the greater) yet are known to God, and visible to the World, whereby the mouth <hi>of iniquity</hi> is open<g ref="char:EOLhyphen"/>ed, the <hi>reverence of Religion</hi> abated; and 'tis to be fear'd thousands upon this occasion look upon <hi>communion</hi> and <hi>close walking with God</hi> but as an <hi>empty notion,</hi> and <hi>meer imposture;</hi> so that to us there appeareth no visible way of re<g ref="char:EOLhyphen"/>pairing the credit of <hi>strict profession,</hi> but by a
+<pb n="10" facs="tcp:168765:8"/>
+               <hi>severe punishment of Professors</hi> from the Lords righteous Judgements ready to break out up<g ref="char:EOLhyphen"/>on us.</p>
+            <p n="4">4. The <hi>immense</hi> and <hi>boundless liberty</hi> per<g ref="char:EOLhyphen"/>mitted, assumed, and freely practised by many to <hi>write, print, publish</hi> and <hi>maintain</hi> all manner of <hi>blasphemies,</hi> and <hi>horrid opinions,</hi> without danger and controule, to <hi>subvert mens faith,</hi> and to <hi>devoure the souls of our Wives, Chil<g ref="char:EOLhyphen"/>dren, Friends, Servants,</hi> and to bury the <hi>truths of Christianity</hi> under the <hi>heap</hi> and <hi>rubbish</hi> of all sorts of Errors, the <hi>sad</hi> and <hi>woful effects</hi> whereof appear in many, by their <hi>Atheism,</hi> and <hi>Contempt</hi> of all Religion; in others, by their <hi>Scepticisme</hi> and <hi>Irresolution</hi> in any; in some, by their <hi>Apostacy</hi> from the truth, which they find so much despised, and back-sliding to Popery, as the <hi>only Religion</hi> wherein, in their opinion, <hi>uni<g ref="char:EOLhyphen"/>on</hi> and <hi>order</hi> is retain'd; in most <hi>indifferency</hi> and <hi>lukewarmness,</hi> and much <hi>decay of the power of godliness.</hi> Lastly, some (as we are credibly informed) grown to that height of wicked<g ref="char:EOLhyphen"/>ness, as <hi>to worship the Divel himself.</hi>
+            </p>
+            <p n="5">5. <hi>Sabbath-Profanation,</hi> both as to <hi>opinion</hi> and <hi>practice,</hi> grown to a <hi>greater heighth</hi> than
+<pb n="11" facs="tcp:168765:8"/> ever formerly; the <hi>Jewish Sabbath</hi> being cry<g ref="char:EOLhyphen"/>ed up instead of the <hi>Christian,</hi> and <hi>Shops opened</hi> upon the Lords day, and Wares publickly put to Sale; yea, some <hi>working the works of their ordinary Callings,</hi> in <hi>Knitting,</hi> and <hi>Sewing of garments</hi> in our <hi>publick Assemblies:</hi> yea, in the <hi>very Pulpit,</hi> in the time of Gods publick Worship, to the great <hi>affront</hi> and <hi>contempt</hi> thereof.</p>
+            <p n="6">6. The pouring out by men of all Sects, with <hi>a full month</hi> all manner of <hi>obloquie</hi> and <hi>contempt</hi> upon <hi>Ministry,</hi> and <hi>Ministers of the Gospel, openly</hi> interrupting them in the <hi>very Exercise</hi> of their Ministerial duty, whereby they are discouraged and obstructed in their work, while they are represented to the world under the notions of <hi>Baal</hi>'s <hi>Priests, insatiable Hirelings, Gehazi</hi>'s, <hi>Cheaters, Pulpited Divines, Distributers of Sundays Doles, Simonious decima<g ref="char:EOLhyphen"/>ting Clergy, Common Incendiaries,</hi> and cloathed with the livery of other such revilings and all this to render whatever they shall say for the <hi>vindicating of truth, and reforming of manners,</hi> useless and ineffectual.</p>
+            <p>Thirdly, <hi>Other Causes</hi> and <hi>Symptomes of
+<pb n="12" facs="tcp:168765:9"/> Gods wrath</hi> hanging over our heads; as</p>
+            <p>First, The <hi>frequent disappointments</hi> from time to time of all hopes of coming to any <hi>consisten<g ref="char:EOLhyphen"/>cy</hi> and settlement of Government in the Nati<g ref="char:EOLhyphen"/>on, occasioned by our <hi>strange Confusions</hi> and <hi>Changes,</hi> pulling down and setting up, setting up and pulling down, which is a <hi>clear evidence</hi> that God hath in displeasure darkened our eyes, and hid counsel from us, <hi>Isa</hi> 9.19. <hi>Psal.</hi> 35.6. <hi>Isa.</hi> 19.13.</p>
+            <p>Secondly, <hi>The sad Presages of Ʋn-churching the Nation,</hi> or the departing of the glory of God from us, evidenced</p>
+            <p n="1">1. By his calling home to himself, and laying aside many <hi>Eminent Workmen in Church</hi> and <hi>State,</hi> as if he had <hi>no more work</hi> to be done a<g ref="char:EOLhyphen"/>mong us, and would now leave all open to ru<g ref="char:EOLhyphen"/>ine and devastation, <hi>Isa.</hi> 57.2. <hi>Isa.</hi> 3.1, 2, 3, 4. <hi>&amp;</hi> 5.</p>
+            <p n="2">2. By suffering those that remain, to be exercised with <hi>continual reproaches,</hi> and the <hi>de<g ref="char:EOLhyphen"/>faming of many,</hi> which whatever is thought of it, is given in Scripture as a token of <hi>remediless ruine,</hi> 2 Chron. 36.16.</p>
+            <p n="3">3. By our <hi>leaving our first love</hi> and <hi>former
+<pb n="13" facs="tcp:168765:9"/> zeal</hi> for the truths and worship of God, for which our <hi>fore-fathers</hi> so earnestly contended, even with the loss of <hi>liberty, life,</hi> and all things dear to them, <hi>striving</hi> against sin; but the pre<g ref="char:EOLhyphen"/>sent <hi>coldness</hi> and <hi>indifferency</hi> in the things of God, together with our <hi>barrenness</hi> and <hi>unan<g ref="char:EOLhyphen"/>swerable walking</hi> to the Gospel of Christ, seem<g ref="char:EOLhyphen"/>eth to speak no less to us than the removing of our Candlestick, or some <hi>great Eclipse of Re<g ref="char:EOLhyphen"/>ligion</hi> among us, <hi>Rev.</hi> 2.4, 5.</p>
+            <p n="4">4. By the <hi>enmity</hi> and <hi>opposition</hi> which is everywhere manifested against the <hi>truths that are according to godliness,</hi> and <hi>malignity</hi> ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inst the Professors thereof; a sin for which God threatned the <hi>Jewish Nation</hi> to take away the <hi>Kingdome of God</hi> from them, and to give it to a Nation, bringing forth the fruits thereof, <hi>Mat.</hi> 2 L. 43.</p>
+            <p n="5">5. By the <hi>prevalency of Atheisme, Madness,</hi> and doating upon all manner of Error, (fomen<g ref="char:EOLhyphen"/>ted by the <hi>intrusion of unskilful guides) endless separations, common ignorance, unbelief, profaness,</hi> and prejudice ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inst <hi>wholsome Doctrine,</hi> and all <hi>Order</hi> and <hi>Discipline</hi> in the Church, and the ma<g ref="char:EOLhyphen"/>ny <hi>other Confusions</hi> and <hi>spiritual judgements</hi>
+               <pb n="14" facs="tcp:168765:10"/> which are upon us, all which we cannot but sad<g ref="char:EOLhyphen"/>ly look upon as <hi>dreadful preparations</hi> towards a <hi>Bill of Divorce</hi> which God is about to put into the hands of these Nations.</p>
+            <p>Now these things being so, we (whom the Lord hath placed in the Ministry, though un<g ref="char:EOLhyphen"/>worthy) do promise for our selves.</p>
+            <p n="1">1. To use all <hi>holy endeavours</hi> in our places and stations, to keep God and his truth amongst us, and to that end shall take all occasions to <hi>mourn before the Lord,</hi> and be more frequent in <hi>fasting</hi> and <hi>prayer,</hi> crying mightily to our God <hi>to return to the Tribes of his Inheritance,</hi> confes<g ref="char:EOLhyphen"/>sing our own sins, and the sins of the people, that (if it be possible) these dreadful effects of his wrath may be turned away, and he may <hi>re<g ref="char:EOLhyphen"/>vive his work</hi> in the midst of the years, and yet continue to be with us.</p>
+            <p n="2">2. To be more diligent in <hi>watching over our several Flocks,</hi> feeding them with knowledge and understanding, and dispencing the <hi>Word</hi> and <hi>Sacraments</hi> with more <hi>tenderness</hi> and <hi>faith<g ref="char:EOLhyphen"/>fulness,</hi> as also to use more care in <hi>Catechising</hi> and <hi>Seasoning youth</hi> with the <hi>fundamental prin<g ref="char:EOLhyphen"/>ciples</hi> of the Christian Faith, and to be more
+<pb n="15" facs="tcp:168765:10"/> frequent in <hi>Family Inspection,</hi> both our <hi>own</hi> and <hi>yours,</hi> as the Lord shall give opportunity, and vouchsafe strength.</p>
+            <p n="3">3. That we shall, as occasion is offered, en<g ref="char:EOLhyphen"/>deavour your establishment in the <hi>present truths,</hi> 2 <hi>Pet.</hi> 1.12. especially against <hi>Popish de<g ref="char:EOLhyphen"/>lusions.</hi>
+            </p>
+            <p>And we do in the bowels of Christ <hi>earnestly beseech</hi> and <hi>exhort</hi> you, out of a sense of the forementioned dangers, to prepare to meer the Lord, coming against us in Judgement, by <hi>hum<g ref="char:EOLhyphen"/>bling your selves</hi> under his mighty hand, and <hi>re<g ref="char:EOLhyphen"/>moving the evil of your ways, and seeking his face in Christ Jesus our Lord,</hi> that ye may be hidden in the day of his fierce anger, and in wrestling, may prevail with God to spare his people, that his <hi>heritage may not be given to reproach,</hi> and the Adversaries of his truth, say among themselves, <hi>Where is their God?</hi>
+            </p>
+            <p>More especially we exhort you;</p>
+            <p n="1">1. To <hi>take heed of false Teachers, Mat.</hi> 16.6. <hi>trying the spirits,</hi> 1 <hi>John</hi> 4.1. and <hi>holding fast that which is good,</hi> 1 <hi>Thes.</hi> 5.21. especially to beware of <hi>Popish Insinuations,</hi> under what pre<g ref="char:EOLhyphen"/>tence soever disguised, lest unawares you be led
+<pb n="16" facs="tcp:168765:11"/> away <hi>by the Error of the wicked,</hi> which we do the rather suggest, out of a fear lest many may be <hi>too well conceited</hi> of that <hi>corrupt Religion,</hi> having never <hi>smarted</hi> under <hi>Antichristian Tyranny,</hi> as our fore-fathers did, and forgetting the <hi>blood</hi> and <hi>sufferings</hi> of the <hi>Holy Martyrs,</hi> and finding <hi>Rome justified by Englands Confusions,</hi> as <hi>Sodom</hi> was by <hi>Israels sins,</hi> Ezek. 16.51. But we hope (Brethren and Beloved in the Lord) that you will think no <hi>abhorrency great enough</hi> for that Faction and sort of men, who <hi>forbid you the reading of the Scripture</hi> in your own <hi>vulgar tongue,</hi> (as if the Word of God were a dange<g ref="char:EOLhyphen"/>rous and infectious book) who take a way from the people of God the <hi>Communion of the Cup,</hi> so expresly established by <hi>Christs Institution;</hi> who require you to attend upon <hi>prayers</hi> in a lan<g ref="char:EOLhyphen"/>guage that you understand not; who daily of<g ref="char:EOLhyphen"/>fer up in their <hi>Mass,</hi> a <hi>proper</hi> and <hi>propitiatory s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crifice</hi> (as they call it) for <hi>quick</hi> and <hi>dead,</hi> though the Scripture assures us, that by <hi>one ob<g ref="char:EOLhyphen"/>lation once offered, Christ hath perfected for ever those that are sanct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied,</hi> who set up <hi>Images for Worship,</hi> contrary to the second Command<g ref="char:EOLhyphen"/>ment; who teach you the <hi>Invocation of Saints</hi>
+               <pb n="17" facs="tcp:168765:11"/> and <hi>Angels,</hi> to the prejudice of Christ Jesus our Lord, the <hi>only Mediator</hi> between God &amp; men; who preach up the <hi>merit of works,</hi> yea, <hi>works of Supererogation,</hi> and <hi>Popes pardons,</hi> and <hi>Purgatory for faults already forgiven,</hi> as if Christ had not fully satisfied for them; who by the words of <hi>Consecration</hi> pronounced by a Priest, profess to <hi>transubst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntiate bread</hi> in to the <hi>body of Christ,</hi> and then fall down to it, and worship it; who adde <hi>traditions of men</hi> to the <hi>Word of God,</hi> as of <hi>equal Authority</hi> therewith; who dispense <hi>with Oaths,</hi> and <hi>Incestuous Marriages,</hi> resolve their faith in<g ref="char:EOLhyphen"/>to <hi>Papal Infallibility;</hi> forbid the <hi>Marriage of Ministers,</hi> and yet tolerate <hi>Stews;</hi> who, to pro<g ref="char:EOLhyphen"/>pagate the <hi>Roman Religion,</hi> and promote the in<g ref="char:EOLhyphen"/>terests of the Papal Sea, take upon them to <hi>dispose of Kingdoms,</hi> and <hi>in ordine ad spiritualia</hi> to invade the <hi>temporalities of Princes,</hi> and im<g ref="char:EOLhyphen"/>broyle their Nations <hi>in blood</hi> and <hi>confusion,</hi> and many such other <hi>Monstrous Tenents,</hi> and withall introduce a <hi>ridiculous mass of Ceremonies,</hi> and <hi>humane Inventions,</hi> not only besides the Word, but against it: We say we hope we need not <hi>many words</hi> to awaken you, that have so long enjoyed the <hi>purer light of Christianity,</hi> into a
+<pb n="18" facs="tcp:168765:12"/> just indignation and hatred of these abomina<g ref="char:EOLhyphen"/>ble <hi>Superstitions, Heresies</hi> and <hi>Idolatries</hi>
+            </p>
+            <p n="2">2. To manifest <hi>your sincerity,</hi> not only by an <hi>hatred of Error,</hi> but a <hi>love of the Truth,</hi> hoping you do sufficiently understand the difference between <hi>opposition to a false way,</hi> and <hi>yielding up your selves to the power of the Truth;</hi> and that there is little certainty of the <hi>stedfastness</hi> of those who side with the <hi>Right Party,</hi> rather out of <hi>Faction, Custome, Education,</hi> and <hi>Publick Countenance,</hi> than any <hi>sound evidence</hi> of, or <hi>af<g ref="char:EOLhyphen"/>fection</hi> to that good way which they do profess, 2 <hi>Thes.</hi> 2.10, 11.</p>
+            <p n="3">3. To keep your selves unspotted from the <hi>prevailing corruptions</hi> of these <hi>back-sliding times,</hi> lest being <hi>partakers in other mens sins,</hi> you be involved in their judgments, it being the Lords way to punish the <hi>Accessories</hi> that abett and as<g ref="char:EOLhyphen"/>sist evil things, by <hi>conniving</hi> at and <hi>consenting</hi> to them, as well as the <hi>Principal</hi> and <hi>Chief Actors;</hi> therefore we desire you <hi>to mourn in se<g ref="char:EOLhyphen"/>cret</hi> for the abominations of the Land, with purpose of heart to cleave to the Lord and his Truth, and to disclaim all such <hi>wicked practices</hi> and <hi>opinions</hi> as have rendered this Age where<g ref="char:EOLhyphen"/>in
+<pb n="19" facs="tcp:168765:12"/> we live, the <hi>wonder and astonishment of sober and religious Christians.</hi>
+            </p>
+            <p n="4">4. To endeavour in your places, an healing of those <hi>sad breaches</hi> and <hi>divisions</hi> which have been amongst us, that so we may be <hi>mutually strongthened</hi> in the defence of <hi>the</hi> Gospel, and in the <hi>promoting of the common faith and salva<g ref="char:EOLhyphen"/>tion.</hi> And in as much as our <hi>knowledge</hi> here, and <hi>all other graces</hi> are <hi>imperfect,</hi> and the Lord hath so tempered the body, that the noblest member cannot say unto the meanest, <hi>I have no need of thee;</hi> let therefore the <hi>strong</hi> learn to bear the <hi>infirmities of the weak,</hi> and the <hi>weak</hi> to forbear the <hi>censuring</hi> of the <hi>strong;</hi> let not any either <hi>despise</hi> or <hi>judge,</hi> but all mutually <hi>receive</hi> and <hi>serve one another in love,</hi> that no prints of <hi>unkind distances</hi> and <hi>unbrotherly estrangements</hi> may be found amongst us; but that all who fear the Lord, may endeavour to <hi>keep the unity of the Spirit in the bond of peace,</hi> not speaking hardly against, or wounding the <hi>names</hi> and <hi>reputations</hi> of one another, but <hi>speaking often together,</hi> unto the mutual reforming and <hi>building up each other in our most holy faith.</hi>
+            </p>
+            <p n="5">5. To be diligent in the <hi>spiritual</hi> and <hi>con<g ref="char:EOLhyphen"/>scientious
+<pb n="20" facs="tcp:168765:13"/> performance of Family duties,</hi> as those good old Exercises of <hi>Prayer</hi> both <hi>Morning</hi> and <hi>Evening, Reading the Word, Singing of Psalms, Re<g ref="char:EOLhyphen"/>peating of Sermons,</hi> and <hi>Catechising your children and servants,</hi> (duties too much in these loose and licentious days <hi>neglected,</hi> as matters of <hi>meer formality,</hi> but <hi>zealously</hi> and <hi>constantly</hi> observed by godly men in <hi>former</hi> and <hi>better times</hi>) that so the <hi>succession of Churches</hi> be not cut off, and the <hi>taint of these corruptions</hi> may not be trans<g ref="char:EOLhyphen"/>mitted to the <hi>next Ages</hi> by the <hi>ill education of youth,</hi> who are the <hi>seed plot of future woe</hi> or <hi>weal,</hi> and who in these <hi>loose</hi> and <hi>ungoverned times,</hi> are observed to have little favour of that Doctrine which is according to godliness, <hi>Ephes.</hi> 6.4.</p>
+            <p n="6">6. That you would cause your <hi>children</hi> and <hi>servants</hi> to submit to <hi>publick Catechisings,</hi> and train them up in the <hi>reverence of a godly Mini<g ref="char:EOLhyphen"/>stry,</hi> lest they get a <hi>spirit of scorning</hi> betimes; for we have just cause to fear that many young ones, instead of being taught to cry <hi>Hosanna to Christ,</hi> Mat. 21.15. do rather learn to cry <hi>Bald<g ref="char:EOLhyphen"/>pate to his Messengers,</hi> 2 King. 2.23. by the licen<g ref="char:EOLhyphen"/>tious defamings and reproaches of the present Age.</p>
+            <pb n="21" facs="tcp:168765:13"/>
+            <p>And now having discharged <hi>that trust</hi> which was incumbent upon us, as those that <hi>watch for your souls,</hi> and having in <hi>simplicity</hi> and <hi>since<g ref="char:EOLhyphen"/>rity,</hi> not in <hi>fleshly wisdom,</hi> but in <hi>the fear of God,</hi> set before you the <hi>diseases</hi> and <hi>dangers</hi> where<g ref="char:EOLhyphen"/>unto we lie exposed, with the <hi>remedies</hi> and <hi>du<g ref="char:EOLhyphen"/>ties</hi> which in such a day of trouble and rebuke the Lord calleth for: We earnestly beseech you in the bowels of the Lord Jesus, as you va<g ref="char:EOLhyphen"/>lue the presence of God amongst you, and ex<g ref="char:EOLhyphen"/>pect that he should return to the <hi>many thou<g ref="char:EOLhyphen"/>sands of this our Israel;</hi> as you prize <hi>the enjoyment of the reformed Religion,</hi> and therewithall the <hi>prosperity</hi> and <hi>tranquillity</hi> of this <hi>once flourishing City,</hi> and these now <hi>dilacerated Nations,</hi> to lay them sadly to heart; and since the Lord hath not <hi>utterly forsaken us,</hi> but there is yet hope in <hi>Isra<g ref="char:EOLhyphen"/>el,</hi> with holy <hi>Jacob,</hi> to <hi>hold him fast,</hi> and <hi>not to let him go untill he bless us,</hi> and return with mercy unto us, making this <hi>our Jerusalem a praise in the earth:</hi> To his <hi>effectual blessing</hi> we most humbly commend this <hi>poor service</hi> of ours, and this <hi>great City</hi> to his <hi>gracious gui<g ref="char:EOLhyphen"/>dance,</hi> and <hi>almighty protection,</hi> beseeching him to let his Eye and his Heart be perpetually
+<pb n="22" facs="tcp:168765:14"/> upon it, to cover it all the day long under the Wing of his Providence, and with the hi<g ref="char:EOLhyphen"/>ding of his Power, to be a <hi>Wall of fire round about it,</hi> and still <hi>the glory in the midst of it.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>EDward Reynolds, <hi>Minister of</hi> Lawrence Jury.</item>
+                     <item>Arthur Jackson, <hi>Minister of</hi> Faiths <hi>under</hi> Pauls.</item>
+                     <item>Charles Offspring, <hi>Minister of</hi> Antholins.</item>
+                     <item>Edmund Calamy, <hi>Minister of</hi> Aldermanbury.</item>
+                     <item>Simeon Ashe, <hi>Minister of</hi> Austins, London.</item>
+                     <item>Thomas Case, <hi>Minister of</hi> Giles <hi>in the</hi> Fields.</item>
+                     <item>Thomas Whitfeld, <hi>Minister of</hi> Peters <hi>in</hi> Broad-street.</item>
+                     <item>Thomas Manton, <hi>Minister of</hi> Covent-garden.</item>
+                     <item>Roger Drake, <hi>Minister of</hi> Peters Cheap.</item>
+                     <item>James Nalton <hi>Minister of</hi> Leonards Foster-lane.</item>
+                     <item>John Sheffield, <hi>Minister of</hi> Swithins.</item>
+                     <item>William Jenkins, <hi>Minister of</hi> Christ Church.</item>
+                     <item>Gabriel Sangar, <hi>Minister of</hi> Martins <hi>in the</hi> Fields.</item>
+                     <item>William Wickins, <hi>Minister of</hi> Georges Southwark.</item>
+                     <item>Matthew Haviland, <hi>Minister of</hi> Trinity Parish.</item>
+                     <item>William Blackmore, <hi>Minister of</hi> Peters Cornhil.</item>
+                     <item>Thomas Watson, <hi>Minister of</hi> Stephens Walbrook.</item>
+                     <item>Arthur Barham, <hi>Minister of</hi> Hellens.</item>
+                     <item>William Whitaker, <hi>Minister at</hi> Magdalens Bermondsey.</item>
+                     <item>Thomas Wadsworth, <hi>Minister of</hi> Newington Butts.</item>
+                     <item>Benjamin Needler, <hi>Minister of</hi> Margaret Moses.</item>
+                     <pb n="23" facs="tcp:168765:14"/>
+                     <item>Zachariah Crofton, <hi>Minister of</hi> Botolphs Algato.</item>
+                     <item>John Wells, <hi>Minister of</hi> Olaves Jewry.</item>
+                     <item>William Bates, <hi>Minister of</hi> Dunstans <hi>in the</hi> West.</item>
+                     <item>John Meriton, <hi>Minister of</hi> Nicholas Acons.</item>
+                     <item>Samuel Smith, <hi>Minister at</hi> Bennets Grace Church.</item>
+                     <item>Richard Adams, <hi>Minister of</hi> Mildreds Bread-street.</item>
+                     <item>Daniel Batchelor, <hi>Minister of</hi> Anne Aldersgate.</item>
+                     <item>Thomas Parson, <hi>Minister of</hi> Michael Woodstreet.</item>
+                     <item>John Kitchin, <hi>Minister of</hi> Mary Abchurch.</item>
+                     <item>Giles Hinton, <hi>Minister of</hi> Maudlins Old-fish-street.</item>
+                     <item>Thomas Meriton, <hi>Minister of</hi> Michael Coleabby.</item>
+                     <item>John Gibbon, <hi>Minister of</hi> Blackfryars.</item>
+                     <item>John Rumney, <hi>Minister of</hi> Thomas Apostles.</item>
+                     <item>Matthew Pool, <hi>Minister of</hi> Michael Quern <hi>at</hi> London.</item>
+                     <item>John Crodacott, <hi>Minister of</hi> Saviours Southwark.</item>
+                     <item>John Hering, <hi>Minister of</hi> Brides London.</item>
+                     <item>Robert Tatnol, <hi>Minister of</hi> John Evangelist.</item>
+                     <item>Thomas Jacomb, <hi>Minister of</hi> Martins Ludgate.</item>
+                     <item>George Fawler, <hi>Minister of</hi> Bride-well, precinct London.</item>
+                     <item>Thomas Dawks, <hi>Minister of</hi> Michael Queen-hithe.</item>
+                     <item>Thomas Willes, <hi>Minister of</hi> Botolph Billingsgate.</item>
+                     <item>Thomas Doelittle, <hi>Minister of</hi> Alphage.</item>
+                     <item>John Jackson, <hi>Minister of</hi> Bennets Pauls Wharfe.</item>
+                     <item>Thomas Clendon, <hi>Minister of</hi> All-hallows Barking.</item>
+                     <item>Ralph Strettel, <hi>Minister of</hi> Johns Zachary.</item>
+                     <item>Thomas Gouge, <hi>Minister of</hi> Sepulchres.</item>
+                     <item>William Cooper, <hi>Minister of</hi> Olaves Southwark.</item>
+                     <item>Thomas Lye, <hi>Minister of</hi> All-hallows Lumbard-street.</item>
+                     <item>Peter Witham, <hi>Minister of</hi> John Baptist-Walbrook.</item>
+                     <item>Thomas White, <hi>Minister of</hi> Mary Hill.</item>
+                     <item>Samuel Clark, <hi>Minister of</hi> Bennet Fink.</item>
+                     <item>George Smalwood, <hi>Minister of</hi> Mildreds <hi>in the</hi> Poultry.</item>
+                     <pb n="24" facs="tcp:168765:15"/>
+                     <item>William Spurstow, <hi>D. D. Minister of</hi> Hackney.</item>
+                     <item>William Taylor, <hi>Minister of the Gospel in</hi> Coleman-street.</item>
+                     <item>Peter Ʋinke, <hi>Minister of</hi> Michael Corn-hil.</item>
+                     <item>Samuel Annesley, <hi>Minister of</hi> Giles Cripplegate.</item>
+                     <item>John Seabrook, <hi>Minister of</hi> Andrew Le Wardrobe.</item>
+                     <item>Has. Bridges, <hi>Minister of</hi> Albans Woodstreet.</item>
+                     <item>Leonard Cook, <hi>Minister at</hi> Islington.</item>
+                     <item>Elijah Pledger, <hi>Minister of the Gospel at</hi> Christ-Church.</item>
+                     <item>Morgan Hopton, <hi>Minister of</hi> Andrews Holborn.</item>
+                     <item>Stephen Watkins, <hi>Minister of</hi> Southwark.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
